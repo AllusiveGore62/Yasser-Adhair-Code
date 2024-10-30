@@ -1,0 +1,68 @@
+@charset "utf-8";
+#page
+{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #bfa475;
+}
+
+img
+{
+    border: double 10px white;
+}
+
+.list
+{
+    color: #333300;
+}
+
+
+#header
+{
+    padding: 5px;
+    background-color: #655035;
+    text-align: center;
+}
+
+
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color:#bfa475;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+h1.myh1{
+    font-size: 36px;
+    color: white;
+    margin: 0px;
+    padding: 5px;
+}
+
+h2.myh2{
+    font-size: 30px;
+}
+
+h3.myh3{
+    color: white;
+}
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}
+
+ol.myOL {
+    display: inline-block;
+    text-align: left;
+}
+
+#right-column
+{
+    float:right;
+    width: 350px;
+    text-align: left;
+}
